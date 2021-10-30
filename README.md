@@ -34,3 +34,6 @@ possible movement,and then it is connected to neighbors depending on the conditi
 such as the nearest neighbour. The configurations and connections are added to the graph when the network
 becomes dense.
   2) Query phase, where the path is created for movement from initial state to goal state.
+## Implementation 
+
+## GUI Visualization
