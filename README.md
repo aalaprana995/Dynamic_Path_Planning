@@ -21,6 +21,7 @@ of its motions.
 - There is no restriction on robot’s motion.
 - The road map for static obstacles is computed in prepossessing phase without time as a parameter.
 
+
 ##  Algorithm
 Probabilistic road-map planner (PRM) algorithm is used for finding the feasible path. 
 - The main principle behind PRM algorithm is that it takes random samples
@@ -37,3 +38,4 @@ becomes dense.
 ## Implementation 
 
 ## GUI Visualization
+![All-3-same-goal](https://user-images.githubusercontent.com/93336207/139557713-6458fcda-5977-4d59-af5b-a0d8d1437bad.gif)
